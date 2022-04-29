@@ -9,6 +9,13 @@
       "name": "Launch Current File",
       "request": "launch",
       "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Config Service",
+      "request": "launch",
+      "mainClass": "com.richard.application.ConfigServiceApplication",
+      "projectName": "config-service"
     }
   ]
 }
