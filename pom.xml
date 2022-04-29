@@ -7,6 +7,13 @@
 		<url>https://github.com/richard-vu</url>
 	</organization>
 
+	<licenses>
+		<license>
+			<name>MIT LICENSE</name>
+			<url>https://github.com/richard-library-2022/cms-blog/blob/master/LICENSE</url>
+		</license>
+	</licenses>
+
 	<groupId>com.richard</groupId>
 	<artifactId>cms-blog</artifactId>
 	<version>1.0.0</version>
